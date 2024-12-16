@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+opencv-python-headless
+tensorflow
+cvlib
+numpy
